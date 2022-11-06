@@ -2,9 +2,6 @@
 free mailer
 sendEmail - Send email from a console near you!
 Written by: priv3t3 <twitter@priv3t3>
-http://caspian.dotconf.net/
-http://www.tsheets.com/
-
 // 
 // 
 
